@@ -1,6 +1,6 @@
-.\" Manpage for nuseradd.
-.\" Contact vivek@nixcraft.net.in to correct errors or typos.
-.TH man 3 "20 Jun 2020" "0.11" "Holberton School 0x11. C - _printf"
+.\" Manpage.
+.\" To correct errors or typos.
+.TH man 3 "27 Oct 2020" "Holberton School 0x11. C - _printf"
 
 .SH NAME
 _printf() - takes input and prints to standard output.
