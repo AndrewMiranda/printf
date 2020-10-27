@@ -1,11 +1,12 @@
 #include <stdarg.h>
 #include "holberton.h"
 #include <stdio.h>
+
 /**
- * _printf - Write characters standard output and classified by format.
- * @format: Are all different formats type.
+ * _printf - write characters standard output and classified by format.
+ * @format: are all different formats type.
  *
- * Return: Lenght all format printed - print formatted.
+ * Return: lenght all format printed - print formatted.
  */
 int _printf(const char *format, ...)
 {
